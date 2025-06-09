@@ -19,7 +19,7 @@
 🛠️ **Tech Stack**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,compose,flutter,dart&theme=light" alt="Tech Stack" /><br>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,compose,flutter,dart&theme=light" alt="Tech Stack" />
 </div>
 
 - 🛠️ **Languages**: Kotlin, Java, Dart, Swift
@@ -44,7 +44,7 @@
 📫 **Contact Me**
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-ashraf-a2131a337/)
-- [Email](mailto:mohamed.ashraf.radi0@gmail.com)
+- [Email](mohamed.ashraf.radi0@gmail.com)
 
 ---
 
