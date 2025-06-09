@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Mohamed Ashraf</h1>
 
-<!--
-**moashrafff/moashrafff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Kotlin+Enthusiast;KMP+Explorer;Lifelong+Learner&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **About Me**
+
+- 💻 Android Developer passionate about building modern apps
+- 🚀 Skilled in Kotlin Multiplatform (KMP) for shared mobile logic
+- 🎯 Focused on Jetpack Compose, Kotlin Coroutines, Flow, and StateFlow
+- 🔥 Always learning about the latest Android tech and best practices
+- ✨ Love to contribute to Open Source and write clean, scalable code
+
+---
+
+🛠️ **Tech Stack**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,figma&theme=light" alt="Tech Stack" /><br>
+  <img src="https://skillicons.dev/icons?i=compose,flutter,dart,swift" alt="KMP Tech" />
+</div>
+
+- 🛠️ **Languages**: Kotlin, Java, Dart, Swift
+- 📱 **Frameworks**: Jetpack Compose, Flutter, SwiftUI
+- 🔗 **Multiplatform**: Kotlin Multiplatform Mobile (KMM/KMP)
+- ⚡ **Other Skills**: Coroutines, Flow, Hilt, Retrofit, Room, SQLDelight
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+🎥 **Some Cool Android Vibes**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/XHAv3GveJzPna/giphy.gif" width="300">
+</p>
+
+---
+
+📫 **Contact Me**
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- [Email](mailto:your.email@example.com)
+- [Twitter](https://twitter.com/yourtwitter)
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”* 🚀
