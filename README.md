@@ -19,11 +19,11 @@
 🛠️ **Tech Stack**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,compose&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,compose&theme=light" alt="Tech Stack" /> <br>
 </div>
 
-- 🛠️ **Languages**: Kotlin, Java, Dart, Swift
-- 📱 **Frameworks**: Jetpack Compose, Flutter, SwiftUI
+- 🛠️ **Languages**: Kotlin, Java, Dart
+- 📱 **Frameworks**: Jetpack Compose, Flutter
 - 🔗 **Multiplatform**: Kotlin Multiplatform Mobile (KMM/KMP)
 - ⚡ **Other Skills**: Coroutines, Flow, Hilt, Retrofit, Room, SQLDelight
 
@@ -47,5 +47,3 @@
 - [Email](mohamed.ashraf.radi0@gmail.com)
 
 ---
-
-*“Code is like humor. When you have to explain it, it’s bad.”* 🚀
