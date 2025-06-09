@@ -19,7 +19,7 @@
 🛠️ **Tech Stack**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,compose,flutter,dart&theme=light" alt="Tech Stack" /><br>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,compose&theme=light" alt="Tech Stack" /><br>
   <img src="https://skillicons.dev/icons?i=compose,flutter,dart" alt="KMP Tech" />
 </div>
 
