@@ -20,7 +20,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,figma&theme=light" alt="Tech Stack" /><br>
-  <img src="https://skillicons.dev/icons?i=compose,flutter,dart,swift" alt="KMP Tech" />
+  <img src="https://skillicons.dev/icons?i=compose,flutter,dart" alt="KMP Tech" />
 </div>
 
 - 🛠️ **Languages**: Kotlin, Java, Dart, Swift
