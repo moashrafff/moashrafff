@@ -19,8 +19,7 @@
 🛠️ **Tech Stack**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,figma&theme=light" alt="Tech Stack" /><br>
-  <img src="https://skillicons.dev/icons?i=compose,flutter,dart" alt="KMP Tech" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,compose,flutter,dart&theme=light" alt="Tech Stack" /><br>
 </div>
 
 - 🛠️ **Languages**: Kotlin, Java, Dart, Swift
@@ -33,11 +32,11 @@
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moashrafff&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moashrafff&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
