@@ -41,20 +41,10 @@
 
 ---
 
-🎥 **Some Cool Android Vibes**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
-  <img src="https://media.giphy.com/media/XHAv3GveJzPna/giphy.gif" width="300">
-</p>
-
----
-
 📫 **Contact Me**
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Email](mailto:your.email@example.com)
-- [Twitter](https://twitter.com/yourtwitter)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-ashraf-a2131a337/)
+- [Email](mailto:mohamed.ashraf.radi0@gmail.com)
 
 ---
 
