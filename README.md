@@ -23,7 +23,7 @@
 </div>
 
 - 🛠️ **Languages**: Kotlin, Java, Dart
-- 📱 **Frameworks**: Jetpack Compose, Flutter
+- 📱 **Frameworks**: Android Native, Flutter
 - 🔗 **Multiplatform**: Kotlin Multiplatform Mobile (KMM/KMP)
 - ⚡ **Other Skills**: Coroutines, Flow, Hilt, Retrofit, Room, SQLDelight
 
